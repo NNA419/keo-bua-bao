@@ -1,6 +1,6 @@
 import React from "react";
 
-function Result({ "Your code here" }) {
+function Result({a,b,c})  {
   return (
     <div>
       <h1 className="result-header">Result</h1>
